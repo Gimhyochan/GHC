@@ -1,4 +1,4 @@
 # GHC
 
-08/09 2019\n
+08/09 2019
 Project created
